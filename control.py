@@ -60,7 +60,7 @@ def control_loop():
 
 
 def main(argv=None):  # pylint: disable=unused-argument
-
+    control_loop()
 
 if __name__ == "__main__":
     main()
